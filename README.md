@@ -1,6 +1,7 @@
 # H$G-Elite-Trading-Program
 
-# Stock-Analysis-Forecast Python Project | Project-ID Number: 2334
+# Stock-Analysis-Forecast Python Project
+# Project-ID Number: 2334
 
 
 This project is a part of the spring semester course "Skills: Programming - Introduction Level 2021" mentored by Dr. Mario Silic.
